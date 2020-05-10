@@ -22,6 +22,11 @@ class CreateCropsTable extends Migration
         });
     }
 
+<<<<<<< HEAD
+=======
+   
+
+>>>>>>> original
     /**
      * Reverse the migrations.
      *
